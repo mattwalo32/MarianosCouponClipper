@@ -1,0 +1,13 @@
+{
+  "name": "MarianosCouponClipper",
+  "version": "1.0.0",
+  "description": "Automatically clips digital coupons for Marino's",
+  "main": "index.js",
+  "repository": "https://github.com/mattwalo32/MarianosCouponClipper.git",
+  "author": "Matthew Walowski <mattwalowski@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
